@@ -2,3 +2,6 @@ Pragg
 Magnus
 Gukesh
 Divya
+
+Vidit
+Hikaru
